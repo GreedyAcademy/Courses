@@ -1,0 +1,18 @@
+1、为什么学习python3
+https://zhuanlan.zhihu.com/p/33402581?utm_source=wechat_session&utm_medium=social
+
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650733441&idx=1&sn=becb176df504325aa408850c559c1aa5&chksm=871b3fffb06cb6e92da0d4effb0d12c4eaa19e4c9f205fa8625d1d86de8e1ffde3bb3bb7296c&scene=21#wechat_redirect
+
+https://devguide.python.org/#status-of-python-branches
+
+
+2、环境搭建
+pyhton两个环境的安装
+
+mac环境：直接brew install python3
+
+3、开发工具（IDE：integrated development environment）
+spyder下载地址：http://www.softpedia.com
+
+点击preferences（扳子）-->syntax coloring --> scheme--> spyder dark设置成黑色背景
+点击preferences（扳子）-->editor --> 点击show blank spaces 显示空格
